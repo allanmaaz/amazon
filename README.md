@@ -1,6 +1,6 @@
 # 🛒 Amazon Clone Landing Page  
 
-This project is a **front-end clone** of Amazon’s landing page, built using **HTML, CSS, and JavaScript**.  
+This project is a **front-end clone** of Amazon’s landing page, built using **HTML, CSS**.  
 It replicates the design and structure of Amazon’s homepage with responsive sections and modern UI styling.  
 
 🚀 **Live Demo:** [Amazon Clone on Netlify](https://amazon-page-1.netlify.app/)  
