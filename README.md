@@ -27,7 +27,6 @@ It replicates the design and structure of Amazon’s homepage with responsive se
 
 ---
 
-## 📂 Project Setup  
-1. Clone the repository:  
+## 📂 Clone the repository:   
    ```bash
    git clone https://github.com/your-username/amazon-clone.git
