@@ -23,7 +23,7 @@ It replicates the design and structure of Amazon’s homepage with responsive se
 ## 🛠️ Tech Stack  
 - **HTML5** – Structure of the webpage  
 - **CSS3** – Styling and responsiveness   
-- **Netlify** – Deployment  
+- **GitHub-pages** – Deployment  
 
 ---
 
